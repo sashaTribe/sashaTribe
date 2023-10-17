@@ -5,7 +5,18 @@
 ### Python
 #### Machine Learning
 
+Imported sklearn libraries to implement kmeans clustering and used matplotlib to visualise the result of applying the method onto iris dataset.
 
+*May need to change to light mode to view the axis labels*
+
+![A Visualisation model of the different clusters of the iris dataset](cluster-model.png)
+- Each red dot presents a cluster centre and each colour presents a cluster
+
+Gaussian Mixture Clustering:
+![Gaussian Mixture Clustering version](gaussian-mixture-cluster.png)
+
+This is the result when we changed the number of clusters to be 5:
+![Visualisation of kmeans when number of clusters were put to five](kmean-five.png)
 
 ### HTML, CSS, JS:
 #### A basic To-do list:

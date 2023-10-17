@@ -18,6 +18,9 @@ Gaussian Mixture Clustering:
 This is the result when we changed the number of clusters to be 5:
 ![Visualisation of kmeans when number of clusters were put to five](kmean-five.png)
 
+PCA and Linear Discriminant Analysis
+
+
 ### HTML, CSS, JS:
 #### A basic To-do list:
 ![To-do list screenshot](to-do-list.png)

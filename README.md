@@ -1,6 +1,11 @@
-### Hi there, my name is Alexandra Marie Tribe (Sasha for short)👋
+# Hi there, my name is Alexandra Marie Tribe (Sasha for short)👋
 
 ## Technologies I have worked with
+
+### Python
+#### Machine Learning
+
+
 
 ### HTML, CSS, JS:
 #### A basic To-do list:
@@ -12,7 +17,12 @@ Allows you to:
  - Check the item in the to-do list
 
 #### A Basic Timer:
+![Timer Website screenshot](timer.png)
+**Starts timer from 10 minutes down.**
 
+Allows you to:
+    - You can pause the timer
+    - You can resume the time
 
 
 

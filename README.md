@@ -1,10 +1,10 @@
 ![My Personal Banner](personal_banner.png)
 
 ## About Me
-A self-disciplined, aspiring software/data engineer that loves immersing themself to various technologies. I have involved myself with web development, data pipelines object-oriented programming and AI. 
-- 🔭 I’m currently working on...
+A self-disciplined, aspiring software/data engineer who loves immersing themself in various technologies. I have involved myself with web development, data pipelines object-oriented programming and AI. 
+- 🔭 I’m currently reading about Airflow
 - 🌱 I’m currently learning about web frameworks
-- 👯 I’m looking to collaborate python backend applications
+- 👯 I’m looking to collaborate with Python backend applications
 - 📫 How to reach me: 
     - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white) https://www.linkedin.com/in/alexandra-tribe-8283a5257
 
@@ -31,7 +31,7 @@ A self-disciplined, aspiring software/data engineer that loves immersing themsel
 ![Tensor-flow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
-#### Data Visulisation Tools
+#### Data Visualisation Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 - Seaborn
@@ -47,6 +47,7 @@ A self-disciplined, aspiring software/data engineer that loves immersing themsel
 - Pinecone
 
 ### Web Development
+Medium Level: 
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

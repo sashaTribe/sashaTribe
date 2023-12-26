@@ -3,7 +3,7 @@
 ## About Me
 A self-disciplined, aspiring software/data engineer who loves immersing themself in various technologies. I have involved myself with web development, data pipelines object-oriented programming and AI. 
 - 🔭 I’m currently reading about Airflow
-- 🌱 I’m currently learning about web frameworks
+- 🌱 I’m currently learning about AWS and Postgres
 - 👯 I’m looking to collaborate with Python backend applications
 - 📫 How to reach me: 
     - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white) https://www.linkedin.com/in/alexandra-tribe-8283a5257
